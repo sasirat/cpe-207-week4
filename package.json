@@ -1,0 +1,21 @@
+{
+  "name": "week4_1",
+  "version": "1.0.0",
+  "description": "crash course",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "sasirat",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
